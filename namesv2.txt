@@ -1,2 +1,2 @@
 Wimpingego,true,Hi Ego!,I've some potatos!
-Vanhal,true,What's Up Vanhal,Great day isn't it?
+Vanhal,false,What's Up Vanhal,Great day isn't it?
