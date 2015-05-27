@@ -4,3 +4,4 @@ Nemsun,false,Now Then,Nemsun
 BevoLJ,false,Good Day,Bevo!
 Direwolf20,false,Take it easy,Direwolf
 Pahimar,false,Hey Pahinoob,:D
+hypnotizd,false,Whats Up,Hypno
