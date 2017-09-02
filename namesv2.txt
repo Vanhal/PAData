@@ -9,3 +9,7 @@ xBCrafted,false,Sup,XB
 Xisuma,false,Hey X!,:D
 iskall85,false,Hi,Iskall
 Docm77,false,Whats Up,Doc
+Granny_Bacon,true,Sjin,Sd jin?
+sjin,true,Sjin,Sd jin?
+LividCoffee,false,Hey,Duncan
+Xephos,false,Sup,Lewis
